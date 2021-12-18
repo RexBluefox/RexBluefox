@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Bluefox
-![](https://github.com/Bluefox187/Bluefox187/blob/main/GitHubBanner.png)
+![](https://github.com/Bluefox187/Bluefox187/blob/main/GitHubBanner2.png)
 
 I'm from Germany 🇩🇪 and like to Code 👍
 
