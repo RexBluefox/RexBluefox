@@ -13,4 +13,4 @@ Skills: Python, HTML, SQL
 ![Profile views](https://gpvc.arturio.dev/Bluefox187)  
 
 ```math
-\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://raw.githubusercontent.com/RexBluefox/RexBluefox/main/GitHubBanner%20(2).png');]{x0000}$}
+\ce{$\unicode[goombafont; color:red; z-index: 1000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 1; background: url('https://raw.githubusercontent.com/RexBluefox/RexBluefox/main/GitHubBanner%20(2).png');]{x0000}$}
