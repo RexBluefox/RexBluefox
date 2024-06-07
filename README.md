@@ -11,3 +11,6 @@ Skills: Python, HTML, SQL
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Bluefox187)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCF7iWcc0wN3LmLK4r7dlCGg)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/RexBluefox)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.com/users/364814414622228482/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/crunchyroll.svg' alt='crunchyroll' height='40'>](http://www.crunchyroll.com/user/RexBluefox)  
 
 ![Profile views](https://gpvc.arturio.dev/Bluefox187)  
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://grabify.org/1xNS');]{x0000}$}
